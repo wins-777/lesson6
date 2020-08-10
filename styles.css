@@ -606,3 +606,49 @@ input[name="footer_email"] {
 .magazine-phone-email {
 	margin-bottom: 24px;
 }
+
+/* catalog page */
+
+.middle-menu {
+	list-style-type: none;
+	margin-left: 105px;
+	margin-top: 71px;
+}
+
+.middle-menu-list {
+	float:left;
+}
+
+.middle-menu-link {
+	line-height: 1.2;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #6c6c6c;
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+
+
+.middle-menu-link-active {
+	color: #212121;
+	border-bottom: 3px solid black;
+}
+
+
+.products-content {
+	margin-left: 105px;
+	margin-top: 30px;
+}
+
+.reload-image {
+	margin-top: 71px;
+	margin-left: 672px;
+	margin-bottom: 140px;
+}
+
+.promo-catalog-content {
+	margin-top: 0px;
+}

@@ -538,6 +538,7 @@ input[name="footer_email"] {
 .terms-and-policy-link {
 	color: #6c6c6c;
 	text-decoration: none;
+<<<<<<< HEAD
 }
 
 /* contacts page */
@@ -651,4 +652,5 @@ input[name="footer_email"] {
 
 .promo-catalog-content {
 	margin-top: 0px;
+
 }

@@ -147,6 +147,10 @@ body {
 	margin-top: 15px;
 }
 
+.slider-button:hover::after {
+	content: ">";
+}
+
 .slider-button-arrow {
 	margin-left: 15px;
 }

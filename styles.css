@@ -46,6 +46,10 @@ body {
 	margin-bottom: 5px;
 }
 
+.navigation-circle:hover {
+	background-color: black;
+}
+
 .navigation-circle-active {
 	height: 40px;
 	width: 40px;
@@ -81,6 +85,8 @@ body {
 
 .menu-link:hover {
 	color: black;
+	font-weight: 700;
+	border-bottom: 3px solid black;
 }
 
 
@@ -175,6 +181,7 @@ body {
 }
 .feature-tabs-link:hover {
 	color: #212121;
+	border-bottom: 3px solid black;
 }
 
 .feature-tabs-link-active {
@@ -636,6 +643,11 @@ input[name="footer_email"] {
 	letter-spacing: 0.1em;
 }
 
+.middle-menu-link:hover {
+	color: #212121;
+	border-bottom: 3px solid black;
+}
+
 
 .middle-menu-link-active {
 	color: #212121;
@@ -686,6 +698,11 @@ input[name="footer_email"] {
 	padding-left: 10px;
 	padding-right: 10px;
 }
+
+.detail-middle-menu-link:hover {
+	color: #212121;
+}
+
 
 .active-detail-middle-menu-link {
 	color: #212121;

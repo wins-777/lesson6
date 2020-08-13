@@ -215,10 +215,14 @@ body {
 	height: 270px;
 	opacity: 0.9;
 	background-color: #ffffff;
-	border: 1px solid #9c9c9c;
+	outline: 1px solid #9c9c9c;
 	margin-left: 98px;
 	float: left;
 	margin-top: 44px;
+}
+
+.product-content-hover:hover {
+	outline: 1px solid #9c9c9c;
 }
 
 .icon-hover {
@@ -260,7 +264,7 @@ body {
 }
 
 .product-content-hover-image {
-	border: none;
+	outline: none;
 	margin-left: 30px;
 }
 
@@ -334,6 +338,12 @@ body {
 
 }
 
+.trending-products-content-link:hover {
+	outline: 1px solid #9c9c9c;
+}
+
+
+
 /* hot deal slider */
 .hotdeal-slider-content {
 	padding-top: 278px;
@@ -368,6 +378,10 @@ body {
 .exclusive-product-link {
 	float: left;
 	margin: 0px 0px 30px 30px;
+}
+
+.exclusive-product-link:hover {
+	outline: 1px solid #9c9c9c;
 }
 
 /* mobile application */
